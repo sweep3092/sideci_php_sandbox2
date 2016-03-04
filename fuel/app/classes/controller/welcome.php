@@ -40,7 +40,8 @@ class Controller_Welcome extends Controller
 	 * @return  Response
 	 */
 	public function action_hello()
-	{
+  {
+    print "hogehogeffugaguga"
 		return Response::forge(Presenter::forge('welcome/hello'));
 	}
 
