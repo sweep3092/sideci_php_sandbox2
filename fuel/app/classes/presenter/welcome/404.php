@@ -29,6 +29,14 @@ class Presenter_Welcome_404 extends Presenter
 
 		$fufufdddd111u = "jjkpowek;rlwke;lk;lk;lk";
 
+		$fufufddd123123d111u = "jjkpowek;rlwke;lk;lk;lk";
+		$fufufdddasd111u = "jjkpowek;rlwke;lk;lk;lk";
+
+		$fufuddddfdddd111u = "jjkpowek;rlwke;lk;lk;lk";
+
+		$fdddufufdddd111u = "jjkpowek;rlwke;lk;lk;lk";
+
+
 		$messages = array('Aw, crap!', 'Bloody Hell!', 'Uh Oh!', 'Nope, not here.', 'Huh?');
 		$this->title = $messages[array_rand($messages)];
 	}
