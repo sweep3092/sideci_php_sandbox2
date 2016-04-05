@@ -22,12 +22,7 @@ class Presenter_Welcome_404 extends Presenter
 		$fufufddddu = "jjkpowek;rlwke;lk;lk;lk";
 
 
-		$fufu123fddddu = "jjkpowek;rlwke;lk;lk;lk";
-
-		$fufufdd333ddu = "jjkpowek;rlwke;lk;lk;lk";
-		$fufufddddu33 = "jjkpowek;rlwke;lk;lk;lk";
-
-		$fufufdddd111u = "jjkpowek;rlwke;lk;lk;lk";
+		$fufu123fddddu = "jjkpowek;rlwke;lk";
 
 		$fufufddd123123d111u = "jjkpowek;rlwke;lk;lk;lk";
 		$fufufdddasd111u = "jjkpowek;rlwke;lk;lk;lk";
