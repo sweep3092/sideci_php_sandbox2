@@ -54,6 +54,7 @@ class Controller_Welcome extends Controller
 	 */
 	public function action_404()
 	{
+		$hogehogehogehoge='hogehogehogehogheohgoehogehohogehoihogiwjeoiwjerokijwlekjlkml;k;lkjolkjlkdaslklk';
 		return Response::forge(Presenter::forge('welcome/404'), 404);
 	}
 }

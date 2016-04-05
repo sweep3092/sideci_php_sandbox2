@@ -18,6 +18,7 @@ class Presenter_Welcome_Hello extends Presenter
 	{
     $hogehogehoge="fugafugafuga";
 
+    $hogehoge = "jdoaisjglkl,.,m.,m.,m.";
     $this->name = $this->request()->param('name', 'World');
 	}
 }
