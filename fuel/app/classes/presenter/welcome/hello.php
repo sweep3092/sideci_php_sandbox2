@@ -16,6 +16,8 @@ class Presenter_Welcome_Hello extends Presenter
 	 */
 	public function view()
 	{
-		$this->name = $this->request()->param('name', 'World');
+    $hogehogehoge="fugafugafuga";
+
+    $this->name = $this->request()->param('name', 'World');
 	}
 }
