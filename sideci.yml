@@ -1,4 +1,4 @@
 linter:
   phpmd:
     options:
-      exclude: 'welcome.php,hello.php,123.php'
+      exclude: 'fuel'
