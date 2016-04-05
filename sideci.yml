@@ -1,4 +1,4 @@
 linter:
   phpmd:
     options:
-      suffixes: 'html'
+      exclude: 'fuel'
