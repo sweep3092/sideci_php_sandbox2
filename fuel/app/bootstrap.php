@@ -10,6 +10,8 @@ require COREPATH.'bootstrap.php';
 // Register the autoloader
 \Autoloader::register();
 
+$hogehogheo = '123';
+$joiojijor = "ewjroiwerwerw";
 /**
  * Your environment.  Can be set to any of the following:
  *

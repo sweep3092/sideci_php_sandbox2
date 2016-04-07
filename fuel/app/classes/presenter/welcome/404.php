@@ -16,6 +16,27 @@ class Presenter_Welcome_404 extends Presenter
 	 */
 	public function view()
 	{
+		$fufufu = "jjkpowek;rlwke;lk;lk;lk";
+		$fddufufu = "jjkpowek;rlwke;lk;lk;lk";
+		$fufddufu = "jjkpowek;rlwke;lk;lk;lk";
+		$fufufddddu = "jjkpowek;rlwke;lk;lk;lk";
+
+	$fufufdddddddu = "jjkpowek;rlwke;lk;lk;lk";
+
+	$fdasddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddddufufdddsadsasdu = "jjkpowek;rlwke;lk;lk;lk";
+    $djasijoi = 12312412421312312;
+
+		$fdddufu123fddddu = "jjkpowek;rlwke;lk";
+
+$a = 1;
+  $dasjdopasjodqasa = 123;
+		$fufuasdasdas123fddddu = "jjkpowek;rlwke;lk";
+
+
+
+		$fufuddddfdddd111u = "jjkpowek;rlwke;lk;lk;lk";
+
+
 		$messages = array('Aw, crap!', 'Bloody Hell!', 'Uh Oh!', 'Nope, not here.', 'Huh?');
 		$this->title = $messages[array_rand($messages)];
 	}
