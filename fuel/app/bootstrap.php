@@ -11,7 +11,7 @@ require COREPATH.'bootstrap.php';
 \Autoloader::register();
 
 $hogehoge= 'gfugaojerwerwe';
-
+$joiojijor = "ewjroiwerwerw";
 /**
  * Your environment.  Can be set to any of the following:
  *
