@@ -28,7 +28,7 @@ class Presenter_Welcome_404 extends Presenter
 
 		$fdddufu123fddddu = "jjkpowek;rlwke;lk";
 
-
+$a = 1;
   $dasjdopasjodqasa = 123;
 		$fufuasdasdas123fddddu = "jjkpowek;rlwke;lk";
 
