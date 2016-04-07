@@ -17,6 +17,8 @@ class Presenter_Welcome_404 extends Presenter
 	public function view()
 	{
 		$fufufu = "jjkpowek;rlwke;lk;lk;lk";
+		$fddufufu = "jjkpowek;rlwke;lk;lk;lk";
+		$fufddufu = "jjkpowek;rlwke;lk;lk;lk";
 		$fufufddddu = "jjkpowek;rlwke;lk;lk;lk";
 
 	$fufufdddddddu = "jjkpowek;rlwke;lk;lk;lk";
