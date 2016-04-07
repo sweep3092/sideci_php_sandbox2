@@ -10,6 +10,7 @@ require COREPATH.'bootstrap.php';
 // Register the autoloader
 \Autoloader::register();
 
+$hogehogheo = '123';
 $hogehoge= 'gfugaojerwerwe';
 $joiojijor = "ewjroiwerwerw";
 /**
