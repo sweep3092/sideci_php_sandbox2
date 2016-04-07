@@ -20,4 +20,5 @@
     <rule ref="rulesets/unusedcode.xml">
         <exclude name="UnusedFormalParameter"/>
     </rule>
+    <exclude-pattern name="fuel"></exclude-pattern>
 </ruleset>
